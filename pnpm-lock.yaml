@@ -9,13 +9,13 @@ importers:
   .:
     devDependencies:
       '@inlang/paraglide-js':
-        specifier: ^2.15.2
+        specifier: ^2.16.0
         version: 2.16.0
       '@sveltejs/adapter-static':
         specifier: ^3.0.10
         version: 3.0.10(@sveltejs/kit@2.57.1(@sveltejs/vite-plugin-svelte@7.0.0(svelte@5.55.4)(vite@8.0.8(jiti@2.6.1)))(svelte@5.55.4)(typescript@6.0.3)(vite@8.0.8(jiti@2.6.1)))
       '@sveltejs/kit':
-        specifier: ^2.57.0
+        specifier: ^2.57.1
         version: 2.57.1(@sveltejs/vite-plugin-svelte@7.0.0(svelte@5.55.4)(vite@8.0.8(jiti@2.6.1)))(svelte@5.55.4)(typescript@6.0.3)(vite@8.0.8(jiti@2.6.1))
       '@sveltejs/vite-plugin-svelte':
         specifier: ^7.0.0
@@ -24,7 +24,7 @@ importers:
         specifier: ^4.2.2
         version: 4.2.2(vite@8.0.8(jiti@2.6.1))
       svelte:
-        specifier: ^5.55.2
+        specifier: ^5.55.4
         version: 5.55.4
       svelte-check:
         specifier: ^4.4.6
@@ -33,10 +33,10 @@ importers:
         specifier: ^4.2.2
         version: 4.2.2
       typescript:
-        specifier: ^6.0.2
+        specifier: ^6.0.3
         version: 6.0.3
       vite:
-        specifier: ^8.0.7
+        specifier: ^8.0.8
         version: 8.0.8(jiti@2.6.1)
 
 packages:
